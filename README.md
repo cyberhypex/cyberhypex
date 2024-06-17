@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java,DSA,Flutter**
 
-- 📫 How to reach me **anshugogoi201@gmail.com**
+- 📫 How to reach me **anshgogoi201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
